@@ -3,6 +3,12 @@ Hier seht ihr, wie ihr den Floating Action Button mithilfe der Android Design Li
 - Tutorial auf YouTube: http://youtu.be/jWywT73pgoQ
 - Projekt für Android Studio
 
+
+Gradle Zeile für die Android Design Library:  
+```
+compile 'com.android.support:design:22.2.0'
+```
+
 <b>SCREENSHOT:</b>
 
 <img src="http://s04.justpaste.it/files/justpaste/d224/a9151321/file119.png" height="500px"/>
